@@ -37,7 +37,7 @@
 </tr>
 </table>
 <!--- stats (end) -->
-[![An image of @yooashu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yooashu)](https://holopin.io/@yooashu)
+
 
 <!--- trophy (start) -->
 <div align=center>
