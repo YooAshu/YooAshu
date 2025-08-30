@@ -151,6 +151,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
+| **Yoo_Space** |  kotlin social media app to chat and share memories | Kotlin, Jetpack Compose | [GitHub](https://github.com/YooAshu/YooSpace_android) |
 | **Yoo_Notes** | Jetpack Compose app to create and store notes | Kotlin, Jetpack Compose | [GitHub](https://github.com/YooAshu/Yoo_Notes) |
 | **Yoo_Music** | Music player with custom XML UI | Kotlin, XML | [GitHub](https://github.com/YooAshu/Yoo_Music) |
 | **Calculator** | Simple mobile calculator | Kotlin,XML | [GitHub](https://github.com/YooAshu/calculator) |
