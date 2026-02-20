@@ -153,6 +153,7 @@
 |--------|-------------|------------|------|
 | **Yoo_Space** |  kotlin social media app to chat and share memories | Kotlin, Jetpack Compose | [GitHub](https://github.com/YooAshu/YooSpace_android) |
 | **Shaadi Profile-biodata maker** |  kotlin app to make and share marriage biodata | Kotlin, Jetpack Compose,admob and google billing sdks | [Play Store](https://play.google.com/store/apps/details?id=com.yooashu.shaadiprofile&hl=en_IN) |
+| **pixelPrompt -Ai image prompts** |  kotlin app to get multiple trending ai image editing prompts| Kotlin, Jetpack Compose,firebase,admob sdks | [Play Store](https://play.google.com/store/apps/details?id=com.yooashu.pixelprompt&hl=en_IN) |
 | **Yoo_Notes** | Jetpack Compose app to create and store notes | Kotlin, Jetpack Compose | [GitHub](https://github.com/YooAshu/Yoo_Notes) |
 | **Yoo_Music** | Music player with custom XML UI | Kotlin, XML | [GitHub](https://github.com/YooAshu/Yoo_Music) |
 | **YooDl** | App to download videos from 1000+ website using ytdlp | Kotlin,Jetpack compose | [GitHub](https://github.com/YooAshu/YooDL) |
